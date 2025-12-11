@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "claimai",
+  "compatibility_date": "2025-12-11",
+  "pages_build_output_dir": "./dist",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "claimai-production",
+      "database_id": "placeholder-will-be-updated-after-creation"
+    }
+  ]
+}
