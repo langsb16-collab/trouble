@@ -16,7 +16,7 @@ ClaimAI는 한국 거주 외국인 노동자를 포함한 모든 사용자가 �
 
 - **개발 서버**: https://3000-i6tewzyfb4m2ew9soa9g2-5634da27.sandbox.novita.ai
 - **Health Check**: https://3000-i6tewzyfb4m2ew9soa9g2-5634da27.sandbox.novita.ai/health
-- **GitHub**: (업로드 예정)
+- **GitHub**: https://github.com/langsb16-collab/trouble
 
 ## ✨ 주요 기능
 
